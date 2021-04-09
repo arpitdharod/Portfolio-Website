@@ -1,0 +1,59 @@
+							<div class="col grow"><img class="img-fluid" src="images/skills/cplusplus.png" title="C++"></div>
+							<div class="col grow"><img class="img-fluid" src="images/skills/csharp.png" title="C#"></div>
+							<div class="col grow"><img class="img-fluid" src="images/skills/illustrator.png" title="Illustrator"></div>
+							<div class="col grow"><img class="img-fluid" src="images/skills/mongo.png" title="Mongo DB"></div>
+							<div class="col grow"><img class="img-fluid" src="images/skills/firebase.png" title="FireBase"></div>
+							<div class="col grow"><img class="img-fluid" src="images/skills/dart.png" title="Dart"></div>
+
+
+
+
+
+
+
+PROJECT    
+
+
+<div class="row">
+				<div class="col-md-4 text-center d-flex mx-auto ftco-animate">
+					<a href="https://github.com/ahsankhan26/Whatsapp-Chat-Parser" target="_blank"
+						class="services-1 shadow">
+						<span class="icon">
+							<i class="icon-whatsapp"></i>
+						</span>
+						<div class="desc">
+							<h3 class="mb-4">WhatsApp Chat Parser</h3>
+							<p><strong>Python • Regex</strong></p>
+							<p>An App that takes WhatsApp chat file and parses it for better data analysis.</p>
+						</div>
+					</a>
+				</div>
+				<div class="col-md-4 text-center d-flex ftco-animate">
+					<a href="https://github.com/ahsankhan26/Laser-Data-Transmission" target="_blank"
+						class="services-1 shadow">
+						<span class="icon">
+							<i class="flaticon-circuit-board"></i>
+						</span>
+						<div class="desc">
+							<h3 class="mb-4">Data Transmission with Laser</h3>
+							<p><strong>Arduino</strong></p>
+							<p>A hardware based demonstration of Binary ASCII representation of Text, Sent and Received
+								from one system to another using Laser and Arduino.</p>
+						</div>
+					</a>
+				</div>
+				<div class="col-md-4 text-center d-flex ftco-animate">
+					<a href="https://github.com/ahsankhan26/Bomberman-Replica" target="_blank"
+						class="services-1 shadow">
+						<span class="icon">
+							<i class="flaticon-bomberman"></i>
+						</span>
+						<div class="desc">
+							<h3 class="mb-4">SNES Bomberman Replica Game</h3>
+							<p><strong>C# • Unity</strong></p>
+							<p>Video game using Unity 2D game development environment and C# Scripts for
+								interactivity.<br>The game was intended to be multiplayer competing against each other.
+							</p>
+						</div>
+					</a>
+				</div>
